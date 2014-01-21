@@ -1,4 +1,4 @@
 fizzbuzz
 ========
 
-Fizz Buzz Fun
+Attempting a simple solution to fizzbuzz, fizzbuzzsivv
