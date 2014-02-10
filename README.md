@@ -1,4 +1,4 @@
 fizzbuzz
 ========
 
-Attempting a simple solution to fizzbuzz, fizzbuzzsivv
+* A simple algorithm that prints out fizz, fizzbuzz, fizzbuzzsivv
