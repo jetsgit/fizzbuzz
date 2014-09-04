@@ -20,4 +20,4 @@ end
 wuzzies = { "Mizz" => 6, "Lizz"=> 13, "Krizz" => 27, "Rizz" => 12, "Wizz" => 4, "Snizz" => 12, "Griz" => 25 }
 
 
-fizzbuzzfuss(39, wuzzies)
+fizzbuzzfuss(135, wuzzies)

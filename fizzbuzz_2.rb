@@ -6,8 +6,7 @@ def fizzbuzzplus(num, xtra)
     if (num % 5) == 0
     	fuzzy += 'Buzz'
     end
-    if (num % xtra)
-       (num % xtra) == 0
+    if (num % xtra) == 0
        fuzzy += 'Sivv'
     end
     puts fuzzy
