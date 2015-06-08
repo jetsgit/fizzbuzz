@@ -2,4 +2,4 @@ fizzbuzz
 ========
 
 * A simple algorithm that prints out fizz, fizzbuzz, fizzbuzzsivv
-* Enjoy
+* Enjoy, may the fizzbuzz be with you!
